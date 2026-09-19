@@ -1,4 +1,11 @@
-Build a complete Cybersecurity Threat Analytics and Risk Prediction Dashboard using the uploaded cybersecurity dataset.
+Cybersecurity-Threat-Analytics/
+│
+├── cybersecurity_dashboard.py
+├── requirements.txt
+├── README.md
+└── Project_Report.pdf
+
+ Build a complete Cybersecurity Threat Analytics and Risk Prediction Dashboard using the uploaded cybersecurity dataset.
 
 First inspect and understand the dataset. Clean missing values, duplicates, inconsistent values and incorrect data types.
 
